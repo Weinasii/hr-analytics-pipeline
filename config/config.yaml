@@ -1,0 +1,33 @@
+# ─── HR Analytics Pipeline · Configuration ────────────────────────────────
+
+database:
+  host: localhost
+  port: 5432
+  name: hr_analytics
+  schema: hr
+  pool_size: 5
+  max_overflow: 10
+
+pipeline:
+  raw_data_path: data/raw/employees_raw.csv
+  processed_data_path: data/processed/employees_clean.csv
+  refresh_schedule: "0 6 * * 1"       # Every Monday at 6 AM
+  alert_threshold_turnover: 10.0      # % — triggers email alert
+  alert_threshold_absenteeism: 5.0    # %
+
+model:
+  path: models/attrition_model.pkl
+  retrain_frequency: monthly          # monthly | quarterly | manual
+  min_accuracy_threshold: 0.82        # Re-train if ROC-AUC drops below this
+  risk_threshold_high: 65             # Score above which = high risk
+  risk_threshold_medium: 35
+
+dashboard:
+  page_title: "HR Analytics"
+  theme: dark
+  auto_refresh_minutes: 60
+
+logging:
+  level: INFO
+  format: "%(asctime)s [%(levelname)s] %(name)s — %(message)s"
+  file: logs/pipeline.log
