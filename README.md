@@ -11,8 +11,6 @@
 
 **An end-to-end HR data analytics platform: ETL pipeline · KPI dashboard · Attrition prediction model**
 
-[🚀 Live Demo](#live-demo) · [📊 Features](#features) · [🛠 Installation](#installation) · [📖 Documentation](#documentation)
-
 </div>
 
 ---
