@@ -233,7 +233,7 @@ Contributions are welcome! Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) a
 
 ## 📄 License
 
-MIT — free to use, modify, and distribute.
+MIT - free to use, modify, and distribute.
 
 ---
 
