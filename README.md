@@ -238,5 +238,8 @@ MIT - free to use, modify, and distribute.
 ---
 
 <div align="center">
-Built with ❤️ · <a [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yn%C3%A8s-lemdjedani-7983543a6/) >LinkedIn</a>
+  <p>Built with ❤️</p>
+  <a href="https://www.linkedin.com/in/yn%C3%A8s-lemdjedani-7983543a6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
 </div>
