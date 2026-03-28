@@ -227,8 +227,7 @@ Automated with **GitHub Actions**:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) and open a PR.
-
+Contributions are welcome! Feel free to open an issue or a pull request.
 ---
 
 ## 📄 License
@@ -236,10 +235,3 @@ Contributions are welcome! Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) a
 MIT - free to use, modify, and distribute.
 
 ---
-
-<div align="center">
-  <p>Built with ❤️</p>
-  <a href="https://www.linkedin.com/in/yn%C3%A8s-lemdjedani-7983543a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-</div>
