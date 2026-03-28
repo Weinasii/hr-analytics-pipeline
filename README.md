@@ -19,7 +19,7 @@
 
 **HR Analytics Pipeline** is a production-ready data solution designed to help HR and SIRH teams transform raw employee data into actionable insights. Built with a clean ETL architecture, interactive dashboards, and an ML-based attrition prediction model.
 
-> **Business impact**: Reduce employee turnover by up to 25% through early identification of at-risk profiles, and save 15–20% of HR processing time with automated KPI pipelines.
+> **Business impact**: Reduce employee turnover by up to 25% through early identification of at-risk profiles, and save 15 - 20% of HR processing time with automated KPI pipelines.
 
 ### Why this project?
 
