@@ -78,7 +78,7 @@ hr-analytics-pipeline/
 
 ### Prerequisites
 - Python 3.10+
-- PostgreSQL 14+ (optional — SQLite supported out of the box)
+- PostgreSQL 14+ (optional - SQLite supported out of the box)
 
 ### Quick start
 
@@ -150,7 +150,7 @@ Classification Report — Attrition Model v1.2
 
 ---
 
-## 🗄 SQL Queries — Examples
+## 🗄 SQL Queries - Examples
 
 ```sql
 -- Monthly turnover rate by department
