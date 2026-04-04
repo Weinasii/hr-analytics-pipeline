@@ -23,7 +23,7 @@
 
 ### Why this project?
 
-Large organizations generate enormous volumes of HR data — payroll records, performance reviews, training logs, absence data but rarely turn it into strategic decisions. This project bridges that gap.
+Large organizations generate enormous volumes of HR data payroll records, performance reviews, training logs, absence data but rarely turn it into strategic decisions. This project bridges that gap.
 
 ---
 
